@@ -9,7 +9,8 @@ Prerequisite
 mondoDB running on default port
 
 ```bash
-$ npm install  
+$ npm install
+$ npm start
 ```
 
 ## Features
